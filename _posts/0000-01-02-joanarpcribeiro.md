@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I start my slideshow from here onwards!
+"What if there was only one choice and all the other ones were wrong? And there were signs along the way, to pay attention to."
